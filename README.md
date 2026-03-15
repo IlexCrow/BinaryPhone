@@ -1,3 +1,6 @@
 # BinaryPhone
-Horible phone number system
-Please dont judge my entire profile based on this horible things existance :)
+Horible phone number system.
+
+I made this as a dare.
+
+[Here.](https://ilexcrow.github.io/BinaryPhone/)
