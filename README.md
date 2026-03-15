@@ -1,5 +1,5 @@
 # BinaryPhone
-Horible phone number system.
+Horrible phone number system.
 
 I made this as a dare.
 
